@@ -17,7 +17,6 @@ Git este un sistem de control al versiunilor, folosit pentru:
 
 Git este extrem de util pentru proiecte de programare, dar și pentru documente, lucrări de laborator sau orice tip de proiect care se schimbă în timp.
 
----
 
 ## 2. De ce este important Git?
 
@@ -28,12 +27,7 @@ Git ne ajută să:
 - testăm noi funcționalități fără a afecta proiectul principal,
 - găsim rapid ce modificare a fost făcută și de cine.
 
----
 
 ## 3. Instalare și configurare
 
 Pentru a începe să folosești Git, trebuie să îl instalezi pe calculator.
-
-### Verificare instalării
-```bash
-git --version
