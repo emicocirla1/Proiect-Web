@@ -1,6 +1,6 @@
 # Proiect_Web 
-## Acesta este README-ul asociat repository-ului realizat la Laboratorul 5 <br>
-## Proiectul acest proiect are ca scop invatarea utilizarii platformei git <br>
+### Acesta este README-ul asociat repository-ului realizat la Laboratorul 5 <br>
+### Proiectul acest proiect are ca scop invatarea utilizarii platformei git <br>
 
 
 # Managementul Codului cu Git, GitHub si VSCode
