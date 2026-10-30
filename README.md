@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Banner Header (poți schimba link-ul imaginii cu orice banner/GIF îți place) -->
-  <img src="toletolecat.jpg" width="100%" alt="Header Banner" />
 
-  <br/>
+  
+
+  <h1>Cocirla Emanuel <br>
 
   <h3>Student la Facultatea de Inginerie Electrica si stiinta Calculatoarelor, specializarea Calculatoare Dual</h3>
-
+  <img src="toletolecat.jpg" width="100%" alt="Header Banner" />
 
 </div>
 
