@@ -3,31 +3,47 @@
 ## Proiectul acest proiect are ca scop invatarea utilizarii platformei git <br>
 
 
-# Laborator Git: lucru cu repository-uri și versionare
+# Managementul Codului cu Git, GitHub si VSCode
+## Laboratorul 5
 
-Acest laborator are scopul de a explica noțiunile de bază ale Git și modul în care se folosesc comenzile pentru gestionarea unui proiect.
+Proiect realizat in cadrul laboratorului 5 pentru invatarea fluxului de lucru cu sistemul de control al versiunilor Git, platforma GitHub si editorul Visual Studio Code.
 
-## 1. Ce este Git?
+---
 
-Git este un sistem de control al versiunilor, folosit pentru:
-- păstrarea istoricului proiectului,
-- colaborarea în echipă,
-- revenirea la versiuni anterioare,
-- gestionarea diferitelor ramuri de dezvoltare.
+## Informatii student
 
-Git este extrem de util pentru proiecte de programare, dar și pentru documente, lucrări de laborator sau orice tip de proiect care se schimbă în timp.
+* **Nume:** Cocirla Emanuel
+* **Grupa:** 3111Da
+* **Specializare:** Calculatoare Dual
 
+---
 
-## 2. De ce este important Git?
+## Descrierea proiectului
 
-Git ne ajută să:
-- lucrăm în echipă fără să pierdem modificările,
-- comparăm versiuni diferite ale unui proiect,
-- salvăm starea curentă a lucrului,
-- testăm noi funcționalități fără a afecta proiectul principal,
-- găsim rapid ce modificare a fost făcută și de cine.
+In cadrul acestui laborator am parcurs urmatorii pasi principali:
 
+1. Configurarile initiale pentru Git (nume utilizator, email si salvarea credentialelor).
+2. Gestionarea repozitoriului local (initializare, verificare status, adaugare fisiere in Staging si creare commit-uri).
+3. Conectarea repozitoriului local cu cel la distanta creat pe GitHub.
+4. Utilizarea extensiei de Source Control din VSCode pentru gestionarea modificarilor si sincronizare.
+5. Crearea documentatiei proiectului in format Markdown.
 
-## 3. Instalare și configurare
+---
 
-Pentru a începe să folosești Git, trebuie să îl instalezi pe calculator.
+## Comenzi Git utilizate
+
+```bash
+# Configurare utilizator
+git config --global user.name "Nume Prenume"
+git config --global user.email "email@domeniu.com"
+
+# Lucrul cu repozitoriul local
+git init
+git status
+git add .
+git commit -m "Incarcare fisiere laborator"
+
+# Legarea la repozitoriul de pe GitHub si trimiterea codului
+git remote add origin
+git branch -M main
+git push -u origin main
