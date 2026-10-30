@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Header (poți schimba link-ul imaginii cu orice banner/GIF îți place) -->
-  <img src="[suspicious link removed]" width="100%" alt="Header Banner" />
+  <img src="toletolecat.jpg" width="100%" alt="Header Banner" />
 
   <br/>
 
