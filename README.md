@@ -5,62 +5,43 @@
 
   <br/>
 
-  <h3>✨ [O scurtă descriere/motto despre tine, ex: Developer în devenire & Pasionat de Tehnologie] ✨</h3>
+  <h3>Student la Facultatea de Inginerie Electrica si stiinta Calculatoarelor, specializarea Calculatoare Dual</h3>
 
-  <p>
-    <a href="[suspicious link removed]"><img src="[suspicious link removed]" /></a>
-    <a href="mailto:[emailul_tau@domeniu.com]"><img src="[suspicious link removed]" /></a>
-    <a href="[suspicious link removed]"><img src="[suspicious link removed]" /></a>
-  </p>
 
 </div>
 
----
 
-### 👨‍💻 Despre Mine (About Me)
 
-* 🔭 **În prezent lucrez la:** [Ex: un proiect personal în C++ / o aplicație web / aplicații de laborator]
-* 🌱 **În prezent învăț:** [Ex: Java, Data Structures, Git & GitHub, React]
-* 🎯 **Obiective pentru anul acesta:** [Ex: Să stăpânesc algoritmii, să contribui la proiecte open-source]
-* 💬 **Întreabă-mă despre:** [Ex: C++, Gaming, Configurare VSCode, Muzică]
-* ⚡ **Fun Fact:** [Ex: Beau prea multă cafea când scriu cod / Pasionat de hardware & gaming]
+### 👨‍💻 About me
 
----
+* 🔭 **În prezent lucrez la:** Proiecte de Robotica: Remote controlled cars, Gesture Synth. Proiecte in C#. Proiecte in Godot.
+* 🌱 **În prezent învăț:** C, C#, Jocuri, Robotica
+* 🎯 **Obiective pentru anul acesta:** De realizat multe proiecte in diverse limbaje si de a face cat mai multe aplicatii, programe, jocuri
+* 💬 **Întreabă-mă despre:** C++, Matematica, Muzica
+* ⚡ **Fun Fact:** Ranked Bedwars Player
+
+
 
 ### 🛠️ Tech Stack & Unelte
 
 #### 💻 Limbaje de Programare
-![C]([suspicious link removed])
-![C++]([suspicious link removed])
-![Java]([suspicious link removed])
-![Python]([suspicious link removed])
-![JavaScript]([suspicious link removed])
-![HTML5]([suspicious link removed])
-![CSS3]([suspicious link removed])
-
+[C]
+[C#]
+[C++]
+[Python]
 #### 🧰 Tools & Platforme
-![Git]([suspicious link removed])
-![GitHub]([suspicious link removed])
-![Visual Studio Code]([suspicious link removed])
-![Linux]([suspicious link removed])
+![GitHub](https://github.com/emicocirla1)
+![Email](emanuel.cocirla@student.usv.ro)
 
----
+
 
 ### 📊 Statistici GitHub
 
 <div align="center">
-  <img src="[suspicious link removed]" alt="GitHub Stats" width="48%" />
-  <img src="[suspicious link removed]" alt="Top Languages" width="48%" />
+    Inca nu am statistici, contul e nou.
+    Coming soon...
 </div>
 
----
-
-<div align="center">
-
-  *"Codul este ca umorul. Când trebuie să îl explici, e prost."*  
-
-  ⭐ **Mulțumesc pentru vizită!**
-</div>
 
 # Proiect_Web 
 ### Acesta este README-ul asociat repository-ului realizat la Laboratorul 5 <br>
